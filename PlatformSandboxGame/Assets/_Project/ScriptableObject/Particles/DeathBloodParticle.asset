@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de2b3b5398f588146b4d90f40f16f290, type: 3}
+  m_Name: DeathBloodParticle
+  m_EditorClassIdentifier: 
+  particleID: DeathBloodParticle
+  prefab: {fileID: 6177888337819041965, guid: 0d08f046286f13a47aea0cd3ca4c5872, type: 3}
+  initialPoolSize: 10
+  lifetime: 1

@@ -1,0 +1,2395 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OrePreset
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: a2b59c2072ee2f0479f120c1427f9014, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DefaultSprite
+    value: 
+    objectReference: {fileID: 3280106124655165142, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_DefaultGameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DefaultColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.size
+    value: 19
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Id
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 2983778597573618287, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Neighbors.Array.data[0]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Neighbors.Array.data[1]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Neighbors.Array.data[2]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_Neighbors.Array.data[3]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[0].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[1].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[3].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[0].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Id
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -8975335231468386282, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Neighbors.Array.data[0]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Neighbors.Array.data[1]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Neighbors.Array.data[2]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_Neighbors.Array.data[3]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[0].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[1].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[3].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[1].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Id
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -3083619068676847268, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Neighbors.Array.data[0]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Neighbors.Array.data[1]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Neighbors.Array.data[2]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[0].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[1].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[3].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[2].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Id
+    value: 11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -7225788496869670770, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Neighbors.Array.data[0]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Neighbors.Array.data[1]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Neighbors.Array.data[2]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_Neighbors.Array.data[3]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[0].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[1].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[2].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[2].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[3].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[3].m_RuleTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Id
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 8810855228163510226, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Neighbors.Array.data[1]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Neighbors.Array.data[2]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[0].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[0].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[1].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[2].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[2].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[3].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[4].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Id
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -1995071162903681229, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Neighbors.Array.data[1]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Neighbors.Array.data[2]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[0].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[0].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[1].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[3].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[5].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Id
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Sprites.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 3280106124655165142, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Sprites.Array.data[1]
+    value: 
+    objectReference: {fileID: -4033023190687177973, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Sprites.Array.data[2]
+    value: 
+    objectReference: {fileID: 2723098056803540889, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Neighbors.Array.data[0]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Neighbors.Array.data[1]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Neighbors.Array.data[2]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[0].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[0].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[1].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[2].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[2].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[3].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[6].m_RuleTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Id
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 3280106124655165142, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.size
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[0]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[1]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[2]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[4]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[5]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[6]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_Neighbors.Array.data[7]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.size
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[0].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[0].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[1].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[1].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[2].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[3].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[4].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[4].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[4].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[5].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[5].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[5].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[6].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[6].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[6].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[7].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[7].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_NeighborPositions.Array.data[7].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[7].m_RuleTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Id
+    value: 26
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -8465809253956017630, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Neighbors.Array.data[1]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Neighbors.Array.data[2]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[0].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[0].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[1].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[3].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[8].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Id
+    value: 27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 2839636865013355263, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Neighbors.Array.data[1]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Neighbors.Array.data[2]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[0].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[0].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[1].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[3].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[9].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Id
+    value: 53
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -157199061018321515, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Neighbors.Array.data[0]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Neighbors.Array.data[1]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Neighbors.Array.data[2]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[0].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[1].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[2].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[3].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[10].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Id
+    value: 45
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 5796963034555920725, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Neighbors.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Neighbors.Array.data[1]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Neighbors.Array.data[2]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Neighbors.Array.data[4]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_Neighbors.Array.data[5]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[0].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[0].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[1].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[1].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[3].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[4].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[4].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[4].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[5].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[5].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_NeighborPositions.Array.data[5].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[11].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Id
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 1743159015876975737, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Neighbors.Array.data[0]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Neighbors.Array.data[1]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Neighbors.Array.data[2]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[0].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[1].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[3].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[12].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Id
+    value: 49
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 3758381126069290464, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Neighbors.Array.data[0]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Neighbors.Array.data[1]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Neighbors.Array.data[2]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_Neighbors.Array.data[3]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[0].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[1].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[2].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[3].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[13].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Id
+    value: 58
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: 7296002227841901001, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Neighbors.Array.data[1]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Neighbors.Array.data[2]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_Neighbors.Array.data[3]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[0].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[1].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[3].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[14].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Id
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -5506686693396063427, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Neighbors.Array.data[0]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Neighbors.Array.data[1]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Neighbors.Array.data[2]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_Neighbors.Array.data[3]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[0].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[1].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[2].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[3].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[15].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Id
+    value: 33
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -4409512306866205488, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Neighbors.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Neighbors.Array.data[0]
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Neighbors.Array.data[1]
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Neighbors.Array.data[2]
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Neighbors.Array.data[3]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_Neighbors.Array.data[4]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[0].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[0].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[1].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[1].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[2].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[2].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[3].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[4].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[4].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_NeighborPositions.Array.data[4].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[16].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Id
+    value: 43
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -4409512306866205488, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Neighbors.Array.data[1]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Neighbors.Array.data[2]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_Neighbors.Array.data[3]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[0].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[1].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[2].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[2].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[3].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[17].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Id
+    value: 22
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Sprites.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Sprites.Array.data[0]
+    value: 
+    objectReference: {fileID: -8874775083714891370, guid: 1db9f1899c0235b40af4f5adf969dc8c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_GameObject
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_MinAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_MaxAnimationSpeed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_PerlinScale
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Output
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_ColliderType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_RandomTransform
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Neighbors.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Neighbors.Array.data[0]
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Neighbors.Array.data[1]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Neighbors.Array.data[2]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_Neighbors.Array.data[3]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[0].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[0].y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[1].x
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[1].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[2].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[2].y
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[3].x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[3].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_NeighborPositions.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TilingRules.Array.data[18].m_RuleTransform
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tilesToConnect.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tilesToConnect.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: ff1ef04716136984595e42231d1f9a46, type: 2}
+  - target: {fileID: 0}
+    propertyPath: tilesToConnect.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: c873d85c31e5712419b262128dfa90ec, type: 2}
+  - target: {fileID: 0}
+    propertyPath: tilesToConnect.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 82692731cd301d84987296fa24d83443, type: 2}
+  - target: {fileID: 0}
+    propertyPath: alwaysConnect.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: alwaysConnect.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 262058190767ba948ad0771cb8b4b281, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cantConnectStates.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

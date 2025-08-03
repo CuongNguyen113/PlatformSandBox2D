@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Vines
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 6692314193986290897, guid: 66085d87b888b934a8e5f4e8670fe7a8, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 1
+    m_Sprites:
+    - {fileID: 7444745697879054230, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 4816244808529920694, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 6513368608694685320, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 608798940014746772, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 761569858327349252, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 1791978085113102540, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 3733904693455007923, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 02000000
+    m_NeighborPositions:
+    - {x: 0, y: -1, z: 0}
+    m_RuleTransform: 0
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: 3113622965802206186, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 2015364105990721286, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 3476832538544740601, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: -6351416239744679529, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: -946277670182254741, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 5152965290145769604, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 0200000001000000
+    m_NeighborPositions:
+    - {x: 0, y: 1, z: 0}
+    - {x: 0, y: -1, z: 0}
+    m_RuleTransform: 0
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: 5504985430719585551, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: -1236959746251808368, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 4218640117651773279, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: -6056818784610782631, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: -4912337878574077635, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    - {fileID: 5232039566973449304, guid: 2f3808e0033a59842bb8ed4f83b7fab0, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 0100000001000000
+    m_NeighborPositions:
+    - {x: 0, y: 1, z: 0}
+    - {x: 0, y: -1, z: 0}
+    m_RuleTransform: 0

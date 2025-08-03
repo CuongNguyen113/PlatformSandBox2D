@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05b66f12a8f49b2449de525dd15a7710, type: 3}
+  m_Name: RA_BaseEntitySO
+  m_EditorClassIdentifier: 
+  attackHop: 10
+  wallCheckDistance: 1
+  ledgeCheckDistance: 1
+  groundCheckRadius: 0.3
+  wallBehindCheckDistance: 1
+  obstructedViewRadius: 8
+  maxAgroDistance: 8.5
+  minAgroDistance: 7.5
+  closeRangeActionDistance: 1.3
+  hitParticleData: {fileID: 11400000, guid: d0091afde21929c47924862e6dfa2bfc, type: 2}
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 128
+  whatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 256

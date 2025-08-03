@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2b59c2072ee2f0479f120c1427f9014, type: 3}
+  m_Name: Leaf
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 2229711401957705584, guid: 56c1bc96deb33da4c88cbb7cbf6814a1, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: 2229711401957705584, guid: 56c1bc96deb33da4c88cbb7cbf6814a1, type: 3}
+    - {fileID: -2403344218749812300, guid: 56c1bc96deb33da4c88cbb7cbf6814a1, type: 3}
+    - {fileID: 1918981451987918125, guid: 56c1bc96deb33da4c88cbb7cbf6814a1, type: 3}
+    - {fileID: 4493637071646252930, guid: a18d10fd321b3094a98646a4fe610d67, type: 3}
+    - {fileID: 7092925066923594178, guid: a18d10fd321b3094a98646a4fe610d67, type: 3}
+    - {fileID: 4493637071646252930, guid: a18d10fd321b3094a98646a4fe610d67, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 04000000
+    m_NeighborPositions:
+    - {x: -1, y: 0, z: 0}
+    m_RuleTransform: 0
+  - m_Id: 2
+    m_Sprites:
+    - {fileID: -8036601316946394090, guid: 56c1bc96deb33da4c88cbb7cbf6814a1, type: 3}
+    - {fileID: 6240282209702464968, guid: 56c1bc96deb33da4c88cbb7cbf6814a1, type: 3}
+    - {fileID: -6287894211201909681, guid: 56c1bc96deb33da4c88cbb7cbf6814a1, type: 3}
+    - {fileID: -2378975133923923783, guid: a18d10fd321b3094a98646a4fe610d67, type: 3}
+    - {fileID: 5389042041383410473, guid: a18d10fd321b3094a98646a4fe610d67, type: 3}
+    - {fileID: -913049050151475172, guid: a18d10fd321b3094a98646a4fe610d67, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 04000000
+    m_NeighborPositions:
+    - {x: 1, y: 0, z: 0}
+    m_RuleTransform: 0
+  - m_Id: 1
+    m_Sprites:
+    - {fileID: 1572922875780962705, guid: a82d5dd575781de43904625f7d243938, type: 3}
+    - {fileID: 1437093869910140415, guid: a82d5dd575781de43904625f7d243938, type: 3}
+    - {fileID: 4839558799325030521, guid: a82d5dd575781de43904625f7d243938, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 
+    m_NeighborPositions: []
+    m_RuleTransform: 0
+  tilesToConnect:
+  - {fileID: 11400000, guid: 0c2ff88b72109364e89cbc4f5b4c63ab, type: 2}
+  alwaysConnect: []
+  cantConnectStates: []

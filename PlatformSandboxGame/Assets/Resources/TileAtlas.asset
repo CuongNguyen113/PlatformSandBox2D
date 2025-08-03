@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19ea99a759b850145a97958c2fd09868, type: 3}
+  m_Name: TileAtlas
+  m_EditorClassIdentifier: 
+  <grass>k__BackingField: {fileID: 11400000, guid: 37d89e462fb2fb24994df75d200e59d5, type: 2}
+  <dirt>k__BackingField: {fileID: 11400000, guid: 88ffb3e5f94734a47a5746652a1fe0df, type: 2}
+  <stone>k__BackingField: {fileID: 11400000, guid: 58f8aed688f1ae9448a24dda2aea62c3, type: 2}
+  <dirtWall>k__BackingField: {fileID: 11400000, guid: 331fa088dbce42b47a9b520b5e95d47b, type: 2}
+  <stoneWall>k__BackingField: {fileID: 11400000, guid: 0483ee911ce73b14ead3af2394a15238, type: 2}
+  <tallGrass>k__BackingField: {fileID: 11400000, guid: 4fd6cc9def84acd49bd5bdae0ee4c157, type: 2}
+  <log>k__BackingField: {fileID: 11400000, guid: f904dd18b4abdb24c8b368108139bc9c, type: 2}
+  <leaf>k__BackingField: {fileID: 11400000, guid: 3780c13649462fd40980ab0aa0367a82, type: 2}
+  <water>k__BackingField: {fileID: 11400000, guid: 3661c1069e286384c9d8675be6aebfca, type: 2}
+  <lava>k__BackingField: {fileID: 11400000, guid: 3228bcfaf23da8d44b442ded988fc009, type: 2}
+  <vine>k__BackingField: {fileID: 11400000, guid: cfa1335e048fea1438f58a8720c3df2b, type: 2}
+  <stalactite>k__BackingField: {fileID: 11400000, guid: a104938c7759c6747a2a02d16e180a25, type: 2}
+  <pot>k__BackingField: {fileID: 11400000, guid: d8d441b3707f5de419be168e3f804733, type: 2}
+  <torch>k__BackingField: {fileID: 11400000, guid: b8778dffa92618541bf2f668c9db49f2, type: 2}

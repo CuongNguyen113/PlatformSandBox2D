@@ -1,0 +1,19 @@
+Terms:
+Extended TileClass (BETA): any tiles which take up more than one tile
+TileClass: Any standard tiles
+LiquidTileClass: Any tile which flows like water!
+
+To add a tile:
+
+1. Navigate to the Resources/RuleTiles folder
+2. Right click > create > 2D > Tiles > CustomTerraria
+OR
+2. Right click > create > 2D > Tiles > RuleTile
+3. Fill in and create the rules for that tile
+4. Navigate to the Resources/Items folder
+5. Right click > create > Resources > Items
+6. Fill in the details for that item/tile
+7. Add the tile you created in step 2 to the tile class
+
+NOTE: if you hover over variables they will display a tool tip, or check the code if you don't know what to input for the tile's variables!
+
